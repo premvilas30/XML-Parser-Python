@@ -1,0 +1,10 @@
+<person>
+   <name>Bill Smith</name>
+   <address>
+		 <street>Dame Court</street>
+		 <name>Mansion house</name>
+		 <city>Dublin person</city>
+		 <postcode>D07 NCF3</postcode>
+		 <country>Ireland</country>
+	</address>
+</person>
